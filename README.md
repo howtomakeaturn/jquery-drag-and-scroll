@@ -40,6 +40,8 @@ you can enable the plugin with this:
 ```javascript
 $("#target").dragAndScroll();
 ```
+if you still cant figure it out, these's also a demo file in the folder  ;)
+
 ## Author
 
 Chuan-Hao, You
